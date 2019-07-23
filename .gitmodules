@@ -1,0 +1,6 @@
+[submodule "Voron-1"]
+	path = Voron-1
+	url = https://github.com/FrankenVoron/Voron-1
+[submodule "Voron-2"]
+	path = Voron-2
+	url = https://github.com/FrankenVoron/Voron-2
