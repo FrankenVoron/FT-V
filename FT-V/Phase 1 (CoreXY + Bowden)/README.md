@@ -1,8 +1,6 @@
-# FT-V
+# FT-V Phase 1 Upgrade
 [FT-V BOM Link](https://docs.google.com/spreadsheets/d/1DAGFSrG05QE8Q3-KJ5_f3gPs6uIrWfWeZ_tS3dDz_z8/edit?usp=sharing)
-
-
-FT-V Phase 1 Upgrade ($150)
+($150)
     
     -Convert Motion System to CoreXY/Bowden
     
