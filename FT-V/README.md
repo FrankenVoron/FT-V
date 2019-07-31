@@ -7,3 +7,5 @@ The Folgertech FT-5 is a printer that, by all accounts, was destined for greatne
 The machine described in these files is what the FT-5 could have been.
 
 We present... the FrankenVoron. The FT-V.
+
+![FT-V](https://i.imgur.com/NIwkigH.png)
